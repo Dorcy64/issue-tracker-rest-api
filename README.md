@@ -70,11 +70,11 @@ POST /edit-bug/<bug_id>
 
 Make sure you include the bug id in the route
 
-| Parameter | Type | Description                               |
-|:----------| :--- |:------------------------------------------|
-| `title`   | `string` | **Required**. The new bug's title         |
-| `body`    | `string` | **Required**. The new bug's body          |
-| `assigned_user`    | `string` | **Optional**. The new bug's assigned user |
+| Parameter | Type | Description                                  |
+|:----------| :--- |:---------------------------------------------|
+| `title`   | `string` | **Required**. The edited bug's title         |
+| `body`    | `string` | **Required**. The edited bug's body          |
+| `assigned_user`    | `string` | **Optional**. The edited bug's assigned user |
 
 
 ```http

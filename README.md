@@ -25,13 +25,13 @@ I got started by creating a `model.py` to host all the database info, then creat
 These APIs don't require any api keys since they are intended for development only and not production. If you want to skip all these steps just install [pycharm]("https://www.jetbrains.com/pycharm/") and open this directory in pycharm.
 
 Use pip3 to install all the required dependencies on Mac or Linux.
-```http
+```sh
 python -m pip install --upgrade pip
 pip3 install -r requirements.txt
 ```
 
 Run the flask app on your machine.
-```http
+```sh
 export FLASK_APP=app
 flask run
 ```

@@ -1,8 +1,10 @@
 # Introduction
 Part 1: Algorithm to get minimum connections needed to connect all the points: [solution](https://github.com/Dorcy64/interviews/blob/main/get-minimum-connections/solution.py).
-Part 2: Bellow
 
-I was tasked by building an api that has all these necessary functions and features.
+Part 2: Coding assessment bellow.
+
+I was tasked to build an api that has all these necessary functions and features.
+
 - Create a bug. A bug should have a title, a body, and a status (resolved/unresolved).
 - Edit a bug.
 - Delete a bug.
@@ -14,7 +16,6 @@ I was tasked by building an api that has all these necessary functions and featu
 - Mark a bug as "unresolved".
 - View all bugs marked as "resolved".
 - Assign the bug to a user. A user is identified by its ID.
-
 
 ## Method
 

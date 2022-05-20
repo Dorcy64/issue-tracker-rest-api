@@ -117,7 +117,7 @@ Make sure you include the bug id of the bug you want to delete in the route.
 
 ## Responses
 
-Many API endpoints return the JSON representation of the resources created or edited. However, if an invalid request is submitted, or some other error occurs, this will return a JSON response in the following format:
+Many API endpoints return the JSON representation of the resources created or edited. If a valid request is submitted to retrieve all bugs, this will return a JSON response in the following format:
 
 ```javascript
 [

@@ -1,4 +1,6 @@
 # Introduction
+Part 1: Algorithm to get minimum connections needed to connect all the points: [solution](https://github.com/Dorcy64/interviews/blob/main/get-minimum-connections/solution.py).
+Part 2: Bellow
 
 I was tasked by building an api that has all these necessary functions and features.
 - Create a bug. A bug should have a title, a body, and a status (resolved/unresolved).
